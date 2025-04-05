@@ -43,6 +43,5 @@
 
 - 📧 Email: justin.fransolet@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/justin-fransolet](https://www.linkedin.com/in/justin-fransolet-34a9732b4/)
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
 ---
