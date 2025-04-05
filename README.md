@@ -8,15 +8,15 @@
 
 ## 📖 Education
 
-- 👨‍💻 Application Analysis and Development at **HELMo**| \textit{Sept. 2022 to June 2025}
-- ✈️ Erasmus at **CESI** in IT engineering | \textit{Sept. 2024 to Jan. 2025}
+- 👨‍💻 Application Analysis and Development at **HELMo**| *Sept. 2022 to June 2025*
+- ✈️ Erasmus at **CESI** in IT engineering | *Sept. 2024 to Jan. 2025*
 
 ---
 
 ## 👷 Experience
 
-- ☀️ Internship into **Tonomia** | \textit{Feb. 2025 to May 2025}
-- 🔎 Salto Programme by **HELMo** | \textit{Sept. 2023 to June 2024}
+- ☀️ Internship into **Tonomia** | *Feb. 2025 to May 2025*
+- 🔎 Salto Programme by **HELMo** | *Sept. 2023 to June 2024*
 
 ---
 
@@ -29,7 +29,7 @@
 - 🌱 I’m learning more about:
   - Embedded systems
   - Micro service architecture
-  - Prediction Algorithms(\textit{AI})
+  - Prediction Algorithms(*AI*)
 
 - 👨‍💻 I have experience with:
   - **Languages:** Java, C#, Python, JavaScript, C, PHP, Kotlin
