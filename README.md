@@ -39,6 +39,16 @@
 
 ---
 
+## 💼 Capacities
+
+- 📱 Native Mobile Application Development
+- 🖥️ Monitoring Application Development
+- 🗜️ On-Board Software Development
+- 🎮 Video Game Development
+- 📋 Management Application Development
+- 📗 Learning Coding Application Development
+---
+
 ## 📫 Contact Me
 
 - 📧 Email: justin.fransolet@gmail.com
